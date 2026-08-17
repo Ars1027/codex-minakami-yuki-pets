@@ -1,0 +1,7 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+packages/
+pets/*/*
+!pets/*/pet.json
+!pets/*/spritesheet.webp
